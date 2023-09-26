@@ -1,0 +1,18 @@
+.sign-up-container {
+  display: flex;
+  flex-directiom: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #696969;
+}
+.sign-up-container form {
+  background-color: black;
+  color: white;
+}
+.sign-up-container .btn {
+  width: 100px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
